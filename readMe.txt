@@ -1,0 +1,1 @@
+easings.net for more info on the maths behind the interpolation
